@@ -12,7 +12,7 @@ def get_quiz_data(text, openai_api_key):
 
     Your output should be shaped as follows:
 
-    1. An outer list that contains 5 inner lists.
+    1. An outer list that contains 10 inner lists.
     2. Each inner list represents a set of question and answers, and contains exactly 4 strings in this order:
     - The generated question.
     - The correct answer.
